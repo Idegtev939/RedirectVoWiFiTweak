@@ -9,7 +9,7 @@ static const bool kLogging = true;
 
 static BOOL enabled = true;
 
-static NSString *gHostname = @"192.168.1.13";
+static NSString *gHostname = @"192.168.0.11";
 static NSString *gUsername = @"iphone";
 static NSString *gSharedSecret = @"aaaaabbbbbcccccddddd";
 
